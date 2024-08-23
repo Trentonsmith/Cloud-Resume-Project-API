@@ -4,6 +4,7 @@ from azure.cosmosdb.table import TableService, Entity
 import logging
 import os
 
+# testing the build process
 
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.FUNCTION)
